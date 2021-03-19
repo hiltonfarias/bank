@@ -1,0 +1,16 @@
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/Bank
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/Bank.deps.json
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/Bank.runtimeconfig.json
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/Bank.runtimeconfig.dev.json
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/Bank.dll
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/ref/Bank.dll
+/home/hilton/Documentos/Aulas/c-sharp/Bank/bin/Debug/net5.0/Bank.pdb
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.csprojAssemblyReference.cache
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.AssemblyInfoInputs.cache
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.AssemblyInfo.cs
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.csproj.CoreCompileInputs.cache
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.dll
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/ref/Bank.dll
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.pdb
+/home/hilton/Documentos/Aulas/c-sharp/Bank/obj/Debug/net5.0/Bank.genruntimeconfig.cache
